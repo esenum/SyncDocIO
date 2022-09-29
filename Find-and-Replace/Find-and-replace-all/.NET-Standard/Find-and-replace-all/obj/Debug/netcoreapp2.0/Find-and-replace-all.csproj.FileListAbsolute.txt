@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\bin\Debug\netcoreapp2.0\Find-and-replace-all.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\bin\Debug\netcoreapp2.0\Find-and-replace-all.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\bin\Debug\netcoreapp2.0\Find-and-replace-all.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\bin\Debug\netcoreapp2.0\Find-and-replace-all.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\bin\Debug\netcoreapp2.0\Find-and-replace-all.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\obj\Debug\netcoreapp2.0\Find-and-replace-all.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\obj\Debug\netcoreapp2.0\Find-and-replace-all.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\obj\Debug\netcoreapp2.0\Find-and-replace-all.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\obj\Debug\netcoreapp2.0\Find-and-replace-all.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\obj\Debug\netcoreapp2.0\Find-and-replace-all.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\obj\Debug\netcoreapp2.0\Find-and-replace-all.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\obj\Debug\netcoreapp2.0\Find-and-replace-all.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-replace-all\.NET-Standard\Find-and-replace-all\obj\Debug\netcoreapp2.0\Find-and-replace-all.genruntimeconfig.cache

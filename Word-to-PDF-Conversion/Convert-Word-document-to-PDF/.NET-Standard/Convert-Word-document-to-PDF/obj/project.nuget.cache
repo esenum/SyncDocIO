@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJ9F/mUyDaJavFwYqT47wu4TFHWHjLAp7Lc5sLBgwgylxaoUwsLkrtyMdHxe0BjVg//7hlsusZw+vYc7kU6Svw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\TicTacToe\\DocIO-Examples\\Word-to-PDF-Conversion\\Convert-Word-document-to-PDF\\.NET-Standard\\Convert-Word-document-to-PDF\\Convert-Word-document-to-PDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\harfbuzzsharp\\2.8.2-preview.209\\harfbuzzsharp.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2-preview.209\\harfbuzzsharp.nativeassets.macos.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2-preview.209\\harfbuzzsharp.nativeassets.win32.2.8.2-preview.209.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\skiasharp\\2.88.0-preview.209\\skiasharp.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.0-preview.209\\skiasharp.harfbuzz.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.0-preview.209\\skiasharp.nativeassets.macos.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.0-preview.209\\skiasharp.nativeassets.win32.2.88.0-preview.209.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.compression.net.core\\20.2.0.48\\syncfusion.compression.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.docio.net.core\\20.2.0.48\\syncfusion.docio.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.dociorenderer.net.core\\20.2.0.48\\syncfusion.dociorenderer.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.licensing\\20.2.0.48\\syncfusion.licensing.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.officechart.net.core\\20.2.0.48\\syncfusion.officechart.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.pdf.net.core\\20.2.0.48\\syncfusion.pdf.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.skiasharphelper.net.core\\20.2.0.48\\syncfusion.skiasharphelper.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

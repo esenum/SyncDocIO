@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\bin\Debug\netcoreapp2.0\Document-variables.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\bin\Debug\netcoreapp2.0\Document-variables.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\bin\Debug\netcoreapp2.0\Document-variables.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\bin\Debug\netcoreapp2.0\Document-variables.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\bin\Debug\netcoreapp2.0\Document-variables.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\obj\Debug\netcoreapp2.0\Document-variables.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\obj\Debug\netcoreapp2.0\Document-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\obj\Debug\netcoreapp2.0\Document-variables.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\obj\Debug\netcoreapp2.0\Document-variables.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\obj\Debug\netcoreapp2.0\Document-variables.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\obj\Debug\netcoreapp2.0\Document-variables.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\obj\Debug\netcoreapp2.0\Document-variables.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Document-variables\.NET-Standard\Document-variables\obj\Debug\netcoreapp2.0\Document-variables.genruntimeconfig.cache

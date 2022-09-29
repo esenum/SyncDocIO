@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\bin\Debug\netcoreapp2.0\Update-words-count.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\bin\Debug\netcoreapp2.0\Update-words-count.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\bin\Debug\netcoreapp2.0\Update-words-count.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\bin\Debug\netcoreapp2.0\Update-words-count.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\bin\Debug\netcoreapp2.0\Update-words-count.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\obj\Debug\netcoreapp2.0\Update-words-count.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\obj\Debug\netcoreapp2.0\Update-words-count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\obj\Debug\netcoreapp2.0\Update-words-count.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\obj\Debug\netcoreapp2.0\Update-words-count.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\obj\Debug\netcoreapp2.0\Update-words-count.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\obj\Debug\netcoreapp2.0\Update-words-count.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\obj\Debug\netcoreapp2.0\Update-words-count.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Update-words-count\.NET-Standard\Update-words-count\obj\Debug\netcoreapp2.0\Update-words-count.genruntimeconfig.cache

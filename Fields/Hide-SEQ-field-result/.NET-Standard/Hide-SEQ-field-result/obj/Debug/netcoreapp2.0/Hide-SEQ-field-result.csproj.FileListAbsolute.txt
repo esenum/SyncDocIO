@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\bin\Debug\netcoreapp2.0\Hide-SEQ-field-result.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\bin\Debug\netcoreapp2.0\Hide-SEQ-field-result.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\bin\Debug\netcoreapp2.0\Hide-SEQ-field-result.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\bin\Debug\netcoreapp2.0\Hide-SEQ-field-result.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\bin\Debug\netcoreapp2.0\Hide-SEQ-field-result.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\obj\Debug\netcoreapp2.0\Hide-SEQ-field-result.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\obj\Debug\netcoreapp2.0\Hide-SEQ-field-result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\obj\Debug\netcoreapp2.0\Hide-SEQ-field-result.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\obj\Debug\netcoreapp2.0\Hide-SEQ-field-result.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\obj\Debug\netcoreapp2.0\Hide-SEQ-field-result.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\obj\Debug\netcoreapp2.0\Hide-SEQ-field-result.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\obj\Debug\netcoreapp2.0\Hide-SEQ-field-result.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Hide-SEQ-field-result\.NET-Standard\Hide-SEQ-field-result\obj\Debug\netcoreapp2.0\Hide-SEQ-field-result.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\bin\Debug\netcoreapp2.0\IF-field.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\bin\Debug\netcoreapp2.0\IF-field.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\bin\Debug\netcoreapp2.0\IF-field.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\bin\Debug\netcoreapp2.0\IF-field.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\bin\Debug\netcoreapp2.0\IF-field.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\obj\Debug\netcoreapp2.0\IF-field.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\obj\Debug\netcoreapp2.0\IF-field.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\obj\Debug\netcoreapp2.0\IF-field.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\obj\Debug\netcoreapp2.0\IF-field.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\obj\Debug\netcoreapp2.0\IF-field.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\obj\Debug\netcoreapp2.0\IF-field.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\obj\Debug\netcoreapp2.0\IF-field.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\IF-field\.NET-Standard\IF-field\obj\Debug\netcoreapp2.0\IF-field.genruntimeconfig.cache

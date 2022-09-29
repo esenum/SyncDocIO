@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\bin\Debug\netcoreapp2.0\Iterate-document-elements.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\bin\Debug\netcoreapp2.0\Iterate-document-elements.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\bin\Debug\netcoreapp2.0\Iterate-document-elements.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\bin\Debug\netcoreapp2.0\Iterate-document-elements.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\bin\Debug\netcoreapp2.0\Iterate-document-elements.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\obj\Debug\netcoreapp2.0\Iterate-document-elements.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\obj\Debug\netcoreapp2.0\Iterate-document-elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\obj\Debug\netcoreapp2.0\Iterate-document-elements.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\obj\Debug\netcoreapp2.0\Iterate-document-elements.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\obj\Debug\netcoreapp2.0\Iterate-document-elements.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\obj\Debug\netcoreapp2.0\Iterate-document-elements.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\obj\Debug\netcoreapp2.0\Iterate-document-elements.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Word-document\Iterate-document-elements\.NET-Standard\Iterate-document-elements\obj\Debug\netcoreapp2.0\Iterate-document-elements.genruntimeconfig.cache

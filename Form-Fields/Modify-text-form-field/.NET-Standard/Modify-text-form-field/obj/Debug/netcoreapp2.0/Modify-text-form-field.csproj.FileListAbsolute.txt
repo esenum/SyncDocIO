@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\bin\Debug\netcoreapp2.0\Modify-text-form-field.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\bin\Debug\netcoreapp2.0\Modify-text-form-field.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\bin\Debug\netcoreapp2.0\Modify-text-form-field.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\bin\Debug\netcoreapp2.0\Modify-text-form-field.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\bin\Debug\netcoreapp2.0\Modify-text-form-field.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\obj\Debug\netcoreapp2.0\Modify-text-form-field.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\obj\Debug\netcoreapp2.0\Modify-text-form-field.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\obj\Debug\netcoreapp2.0\Modify-text-form-field.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\obj\Debug\netcoreapp2.0\Modify-text-form-field.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\obj\Debug\netcoreapp2.0\Modify-text-form-field.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\obj\Debug\netcoreapp2.0\Modify-text-form-field.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\obj\Debug\netcoreapp2.0\Modify-text-form-field.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Form-Fields\Modify-text-form-field\.NET-Standard\Modify-text-form-field\obj\Debug\netcoreapp2.0\Modify-text-form-field.genruntimeconfig.cache

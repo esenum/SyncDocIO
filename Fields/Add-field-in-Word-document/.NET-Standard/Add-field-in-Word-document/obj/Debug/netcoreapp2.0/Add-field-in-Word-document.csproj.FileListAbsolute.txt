@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\bin\Debug\netcoreapp2.0\Add-field-in-Word-document.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\bin\Debug\netcoreapp2.0\Add-field-in-Word-document.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\bin\Debug\netcoreapp2.0\Add-field-in-Word-document.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\bin\Debug\netcoreapp2.0\Add-field-in-Word-document.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\bin\Debug\netcoreapp2.0\Add-field-in-Word-document.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\obj\Debug\netcoreapp2.0\Add-field-in-Word-document.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\obj\Debug\netcoreapp2.0\Add-field-in-Word-document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\obj\Debug\netcoreapp2.0\Add-field-in-Word-document.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\obj\Debug\netcoreapp2.0\Add-field-in-Word-document.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\obj\Debug\netcoreapp2.0\Add-field-in-Word-document.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\obj\Debug\netcoreapp2.0\Add-field-in-Word-document.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\obj\Debug\netcoreapp2.0\Add-field-in-Word-document.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Add-field-in-Word-document\.NET-Standard\Add-field-in-Word-document\obj\Debug\netcoreapp2.0\Add-field-in-Word-document.genruntimeconfig.cache

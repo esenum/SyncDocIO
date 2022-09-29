@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\bin\Debug\netcoreapp2.0\Find-and-highlight-all.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\bin\Debug\netcoreapp2.0\Find-and-highlight-all.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\bin\Debug\netcoreapp2.0\Find-and-highlight-all.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\bin\Debug\netcoreapp2.0\Find-and-highlight-all.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\bin\Debug\netcoreapp2.0\Find-and-highlight-all.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\obj\Debug\netcoreapp2.0\Find-and-highlight-all.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\obj\Debug\netcoreapp2.0\Find-and-highlight-all.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\obj\Debug\netcoreapp2.0\Find-and-highlight-all.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\obj\Debug\netcoreapp2.0\Find-and-highlight-all.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\obj\Debug\netcoreapp2.0\Find-and-highlight-all.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\obj\Debug\netcoreapp2.0\Find-and-highlight-all.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\obj\Debug\netcoreapp2.0\Find-and-highlight-all.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Find-and-Replace\Find-and-highlight-all\.NET-Standard\Find-and-highlight-all\obj\Debug\netcoreapp2.0\Find-and-highlight-all.genruntimeconfig.cache

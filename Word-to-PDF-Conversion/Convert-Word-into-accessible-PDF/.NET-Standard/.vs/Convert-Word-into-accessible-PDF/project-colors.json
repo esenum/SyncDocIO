@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b5287f9-afb1-41d1-a3ec-03aa66eaa722": {
+      "ProjectGuid": "2b5287f9-afb1-41d1-a3ec-03aa66eaa722",
+      "DisplayName": "Convert-Word-into-accessible-PDF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

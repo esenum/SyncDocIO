@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLVpVP6MGu6r2SqSJL0LMZw65OffGBZo7FkmxzxLSrDjJrZ9b/0A+wocKv0ZkXGAhHzi0qE7RzcFZ98YehW5Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\TicTacToe\\DocIO-Examples\\Fields\\Document-variables\\.NET-Standard\\Document-variables\\Document-variables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.compression.net.core\\20.2.0.48\\syncfusion.compression.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.docio.net.core\\20.2.0.48\\syncfusion.docio.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.licensing\\20.2.0.48\\syncfusion.licensing.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\syncfusion.officechart.net.core\\20.2.0.48\\syncfusion.officechart.net.core.20.2.0.48.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

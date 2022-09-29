@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\bin\Debug\netcoreapp2.0\Format-fields.deps.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\bin\Debug\netcoreapp2.0\Format-fields.runtimeconfig.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\bin\Debug\netcoreapp2.0\Format-fields.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\bin\Debug\netcoreapp2.0\Format-fields.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\bin\Debug\netcoreapp2.0\Format-fields.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\obj\Debug\netcoreapp2.0\Format-fields.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\obj\Debug\netcoreapp2.0\Format-fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\obj\Debug\netcoreapp2.0\Format-fields.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\obj\Debug\netcoreapp2.0\Format-fields.AssemblyInfo.cs
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\obj\Debug\netcoreapp2.0\Format-fields.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\obj\Debug\netcoreapp2.0\Format-fields.dll
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\obj\Debug\netcoreapp2.0\Format-fields.pdb
+C:\Users\HP\Desktop\TicTacToe\DocIO-Examples\Fields\Format-fields\.NET-Standard\Format-fields\obj\Debug\netcoreapp2.0\Format-fields.genruntimeconfig.cache
